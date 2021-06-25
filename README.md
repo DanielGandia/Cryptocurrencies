@@ -27,6 +27,8 @@ This assignment consists of four technical analysis deliverables.
 
 ### Deliverable 4: Visualizing Cryptocurrencies Results
 
+![deliverable_4_output_d.png](https://github.com/DanielGandia/Cryptocurrencies/blob/main/Resources/deliverable_4_output_d.png)
+
 ![deliverable_4_output_a.png](https://github.com/DanielGandia/Cryptocurrencies/blob/main/Resources/deliverable_4_output_a.png)
 
 ![deliverable_4_output_b.png](https://github.com/DanielGandia/Cryptocurrencies/blob/main/Resources/deliverable_4_output_b.png)
